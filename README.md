@@ -65,10 +65,10 @@
  
 * [Quantitative Trait Mapping](https://smcclatchy.github.io/mapping/): This lesson introduces genetic mapping using qtl2, a R package for analyzing quantitative phenotypes and genetic data from complex crosses like the Diversity Outbred (DO). Genetic mapping with qtl2 allows researchers in fields as diverse as medicine, evolution, and agriculture to identify specific chromosomal regions that contribute to variation in phenotypes (quantitative trait loci or QTL).
 
-## Compute resources
+## Free Compute resources
 
 * [Open Science Data Cloud (ODSC)](https://www.opensciencedatacloud.org/): The OSDC is a data science ecosystem in which researchers can house and share their own scientific data, access complementary public datasets, build and share customized virtual machines with whatever tools necessary to analyze their data, and perform the analysis to answer their research questions.
  
-* Jetstream: A free national science & engineering cloud with a focus on ease of use and broad accessibility, Jetstream is designed for those who have not previously used high performance computing and software resources, includingsome useful preconfigured virtual machines (VMs).
+* [Jetstream](https://jetstream-cloud.org/about/index.php): A free national science & engineering cloud with a focus on ease of use and broad accessibility, Jetstream is designed for those who have not previously used high performance computing and software resources, includingsome useful preconfigured virtual machines (VMs).
  
-* A gallery of interesting Jupyter Notebooks: This page is a curated collection of Jupyter/IPython notebooks that include interesting visual or technical content on a wide variety of programming and scientific computing topics such as image processing, NLP, and machine learning
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks): This page is a curated collection of Jupyter/IPython notebooks that include interesting visual or technical content on a wide variety of programming and scientific computing topics such as image processing, NLP, and machine learning
