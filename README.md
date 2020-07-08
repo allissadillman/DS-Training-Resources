@@ -53,6 +53,8 @@
 
 ## General bioinformatics resources
 
+* [Rosalind](http://rosalind.info/problems/locations/): Rosalind is a platform for learning bioinformatics and programming through problem solving
+
 * [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science): This 8-course Corsera specialization covers the concepts and tools to understand, analyze, and interpret data from next generation sequencing experiments. It teaches the most common tools used in genomic data science including how to use the command line, Python, R, Bioconductor, and Galaxy.
  
 * [Learn Galaxy](https://galaxyproject.org/learn/): Galaxy is a scientific workflow, data integration, and data and analysis persistence and publishing platform that aims to make computational biology accessible and freely available to research scientists that do not have computer programming experience.
@@ -64,8 +66,6 @@
 * [Quantitative Trait Mapping](https://smcclatchy.github.io/mapping/): This lesson introduces genetic mapping using qtl2, a R package for analyzing quantitative phenotypes and genetic data from complex crosses like the Diversity Outbred (DO). Genetic mapping with qtl2 allows researchers in fields as diverse as medicine, evolution, and agriculture to identify specific chromosomal regions that contribute to variation in phenotypes (quantitative trait loci or QTL).
 
 ## Compute resources
-
-* NIH's Biowulf and High Performance Computing (HPC) resources: The NIH HPC group plans, manages and supports high-performance computing systems specifically for the intramural NIH community. These systems include Biowulf, a 90,000+ processor Linux cluster; Helix, an interactive system for file transfer and management, Sciware, a set of applications for desktops, and Helixweb, which provides a number of web-based scientific tools.
 
 * Open Science Data Cloud (ODSC): The OSDC is a data science ecosystem in which researchers can house and share their own scientific data, access complementary public datasets, build and share customized virtual machines with whatever tools necessary to analyze their data, and perform the analysis to answer their research questions.
  
