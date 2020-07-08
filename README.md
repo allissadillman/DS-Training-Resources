@@ -30,3 +30,24 @@
 
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/): This tutorial will help you install Git and get it working smoothly with GitHub, in the shell and in RStudio, develop a few key workflows that cover your most common tasks, and integrate Git and GitHub into your daily work with R and RMarkdown.
 
+
+## Python resources
+ 
+* Python for Data Science and AI: This 4-module introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.
+
+* Data Analysis with Python: This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more.
+
+* Data Visualization with Python: This course will teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
+ 
+* Machine Learning with Python: This course dives into the basics of machine learning using Python. You will learn about the purpose of Machine Learning and where it applies to the real world.  You will also get a general overview of machine learning topics such as supervised vs unsupervised learning, model evaluation, and Machine Learning algorithms.
+ 
+* A Whirlwind Tour of Python: A fast-paced introduction to essential features of the Python language, aimed at researchers and developers who are already familiar with programming in another language. The material is particularly designed for those who wish to use Python for data science and/or scientific programming
+ 
+* Python Challenge: In this game, each level can be solved by a bit of programming. You will be able to solve most riddles in any programming language, but some of them will require Python.
+ 
+* Data 8: The Foundations of Data Science: This UC Berkeley Foundations of Data Science course combines three perspectives: inferential thinking, computational thinking, and real-world relevance. The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social issues surrounding data analysis such as privacy and design. Python based.
+ 
+* Automate the Boring Stuff with Python: This free e-book covers how to use Python to write programs that do in minutes what would take you hours to do by hand - no prior programming experience required. Once you've mastered the basics of programming, you'll create Python programs that effortlessly perform useful feats of automation.
+ 
+* Practice Python: This site provides over 30 beginner Python exercises just waiting to be solved. Each exercise comes with a small discussion of a topic and a link to a solution. New exercise are posted monthly.
+
