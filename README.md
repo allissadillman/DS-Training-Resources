@@ -4,7 +4,7 @@
 
 * [RStudio Primers](https://rstudio.cloud/learn/primers): Learn data science basics using these R cloud interactive tutorials.  Topics include everything from data tidying to building interactive apps.
 	
-* R for Data Science: This is an online book that will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. In this book, you will find a practicum of skills for data science.
+* [R for Data Science](https://r4ds.had.co.nz/): This is an online book that will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. In this book, you will find a practicum of skills for data science.
 
 * [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday): Join the R4DS Online Learning Community in the weekly #TidyTuesday event! Every week they post a raw dataset, a chart or article related to that dataset, and ask you to explore the data. The goal of TidyTuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater #RStats community.
 
