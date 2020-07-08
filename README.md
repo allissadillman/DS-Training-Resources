@@ -75,18 +75,18 @@
 
 ## General computer science resources
 
-* Learn Git Branching: visual and interactive way to learn Git; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
+* [Learn Git Branching](https://learngitbranching.js.org/): visual and interactive way to learn Git; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
  
-* The Missing Semester of Your CS Education: Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. Learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/): Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. Learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
  
-* How to Think Like a Computer Scientist: Interactive Edition: The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science. Chapters include interactive exercises and cover topics like iteration, selection, debugging, and more.
+* [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html): The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science. Chapters include interactive exercises and cover topics like iteration, selection, debugging, and more.
  
-* PacVim: PacVim is a fun game that teaches you vim commands. Vim is often called a "programmer's editor" and is also perfect for all kinds of text editing, from composing email to editing configuration files.
+* [PacVim](https://github.com/jmoon018/PacVim): PacVim is a fun game that teaches you vim commands. Vim is often called a "programmer's editor" and is also perfect for all kinds of text editing, from composing email to editing configuration files.
  
-•	Kaggle Notebook Collection: Collection of useful Kaggle notebooks including various tutorials.
+* [Kaggle Notebook Collection](https://github.com/fabsta/interesting_notebooks): Collection of useful Kaggle notebooks including various tutorials.
  
-•	Introduction to Computer Science and Programming Specialization: This 3-course Coursera specialization covers topics ranging from basic computing principles to the mathematical foundations required for computer science. You will learn fundamental concepts of how computers work, which can be applied to any software or computer system. You will also gain the practical skillset needed to write interactive, graphical programs at an introductory level.
+* [Introduction to Computer Science and Programming Specialization](https://www.coursera.org/specializations/introduction-computer-science-programming): This 3-course Coursera specialization covers topics ranging from basic computing principles to the mathematical foundations required for computer science. You will learn fundamental concepts of how computers work, which can be applied to any software or computer system. You will also gain the practical skillset needed to write interactive, graphical programs at an introductory level.
  
-•	Software Development Processes and Methodologies: In this course, you will get an overview of how software teams work, processes they use, and industry standard methodologies such as traditional, lean, and agile development methodologies.
+* [Software Development Processes and Methodologies](https://www.coursera.org/learn/software-processes): In this course, you will get an overview of how software teams work, processes they use, and industry standard methodologies such as traditional, lean, and agile development methodologies.
  
-•	Software Design and Architecture Specialization: In the 4-course Coursera Software Design and Architecture Specialization, you will learn how to apply design principles, patterns, and architectures to create reusable and flexible software applications and systems. You will learn how to express and document the design and architecture of a software system using a visual notation
+* [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture): In the 4-course Coursera Software Design and Architecture Specialization, you will learn how to apply design principles, patterns, and architectures to create reusable and flexible software applications and systems. You will learn how to express and document the design and architecture of a software system using a visual notation
