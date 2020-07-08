@@ -67,7 +67,7 @@
 
 ## Compute resources
 
-* Open Science Data Cloud (ODSC): The OSDC is a data science ecosystem in which researchers can house and share their own scientific data, access complementary public datasets, build and share customized virtual machines with whatever tools necessary to analyze their data, and perform the analysis to answer their research questions.
+* [Open Science Data Cloud (ODSC)](https://www.opensciencedatacloud.org/): The OSDC is a data science ecosystem in which researchers can house and share their own scientific data, access complementary public datasets, build and share customized virtual machines with whatever tools necessary to analyze their data, and perform the analysis to answer their research questions.
  
 * Jetstream: A free national science & engineering cloud with a focus on ease of use and broad accessibility, Jetstream is designed for those who have not previously used high performance computing and software resources, includingsome useful preconfigured virtual machines (VMs).
  
