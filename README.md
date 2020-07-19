@@ -6,8 +6,6 @@
 	
 * [R for Data Science](https://r4ds.had.co.nz/): This is an online book that will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. In this book, you will find a practicum of skills for data science.
 
-* [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): Master Statistics with R in this Coursera specialization, which includes five courses covering topics like inference, modeling, and Bayesian approaches.
-
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
 	
 * [R Programming for Data Science](https://leanpub.com/rprogramming): This book brings the fundamentals of R programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. The skills taught in this book will lay the foundation for you to begin your journey learning data science.
@@ -20,6 +18,7 @@
 
 * [ggThemeAssist](https://github.com/calligross/ggthemeassist): this R add-in provides a graphical user interface for customizing ggplot2 visualization themes. You can modify the attributes of the graph in real time and this package will modify your code for the graph output.
 
+* [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): Master Statistics with R in this Coursera specialization, which includes five courses covering topics like inference, modeling, and Bayesian approaches.
 
 ## Python resources
  
