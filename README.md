@@ -25,16 +25,6 @@
 
 ## Python resources
  
-* [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai): This 4-module introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.
-
-* [Python for Biologists](https://www.pythonforbiologists.org/): A collection of episodes with videos, codes, and exercises for learning the basics of the Python programming language through genomics examples.
-
-* [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python): This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more.
-
-* [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization): This course will teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
- 
-* [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python): This course dives into the basics of machine learning using Python. You will learn about the purpose of Machine Learning and where it applies to the real world.  You will also get a general overview of machine learning topics such as supervised vs unsupervised learning, model evaluation, and Machine Learning algorithms.
- 
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/): A fast-paced introduction to essential features of the Python language, aimed at researchers and developers who are already familiar with programming in another language. The material is particularly designed for those who wish to use Python for data science and/or scientific programming
  
 * [Python Challenge](http://www.pythonchallenge.com/index.php): In this game, each level can be solved by a bit of programming. You will be able to solve most riddles in any programming language, but some of them will require Python.
@@ -44,6 +34,14 @@
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): This free e-book covers how to use Python to write programs that do in minutes what would take you hours to do by hand - no prior programming experience required. Once you've mastered the basics of programming, you'll create Python programs that effortlessly perform useful feats of automation.
  
 * [Practice Python](http://www.practicepython.org/): This site provides over 30 beginner Python exercises just waiting to be solved. Each exercise comes with a small discussion of a topic and a link to a solution. New exercise are posted monthly.
+
+* [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai): This 4-module introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.
+
+* [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python): This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more.
+
+* [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization): This course will teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
+ 
+* [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python): This course dives into the basics of machine learning using Python. You will learn about the purpose of Machine Learning and where it applies to the real world.  You will also get a general overview of machine learning topics such as supervised vs unsupervised learning, model evaluation, and Machine Learning algorithms.
 
 ## General bioinformatics resources
 
@@ -58,6 +56,8 @@
 * [Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/nav/getting-started/): This website hosts introductory material for teaching biologists how to interact with data including: data structure, database management systems, and programming for data manipulation, analysis, and visualization. Most of the modules use R.
 
 * [Statistical Methods for Functional Genomics](https://seandavi.github.io/ITR/): This site share materials for the CSHL Statistical Methods for Functional Genomics, which uses R and bioconductor.
+
+* [Python for Biologists](https://www.pythonforbiologists.org/): A collection of episodes with videos, codes, and exercises for learning the basics of the Python programming language through genomics examples.
 
 * [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science): This 8-course Corsera specialization covers the concepts and tools to understand, analyze, and interpret data from next generation sequencing experiments. It teaches the most common tools used in genomic data science including how to use the command line, Python, R, Bioconductor, and Galaxy.
 
