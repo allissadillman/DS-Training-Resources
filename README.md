@@ -20,8 +20,6 @@
 
 * [ggThemeAssist](https://github.com/calligross/ggthemeassist): this R add-in provides a graphical user interface for customizing ggplot2 visualization themes. You can modify the attributes of the graph in real time and this package will modify your code for the graph output.
 
-* [Happy Git and GitHub for the useR](https://happygitwithr.com/): This tutorial will help you install Git and get it working smoothly with GitHub, in the shell and in RStudio, develop a few key workflows that cover your most common tasks, and integrate Git and GitHub into your daily work with R and RMarkdown.
-
 
 ## Python resources
  
@@ -76,6 +74,8 @@
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks): This page is a curated collection of Jupyter/IPython notebooks that include interesting visual or technical content on a wide variety of programming and scientific computing topics such as image processing, NLP, and machine learning
 
 ## General computer science resources
+
+* [Happy Git and GitHub for the useR](https://happygitwithr.com/): This tutorial will help you install Git and get it working smoothly with GitHub, in the shell and in RStudio, develop a few key workflows that cover your most common tasks, and integrate Git and GitHub into your daily work with R and RMarkdown.
 
 * [Learn Git Branching](https://learngitbranching.js.org/): visual and interactive way to learn Git; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
  
