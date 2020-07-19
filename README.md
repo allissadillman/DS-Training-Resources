@@ -6,8 +6,6 @@
 	
 * [R for Data Science](https://r4ds.had.co.nz/): This is an online book that will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. In this book, you will find a practicum of skills for data science.
 
-* [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday): Join the R4DS Online Learning Community in the weekly #TidyTuesday event! Every week they post a raw dataset, a chart or article related to that dataset, and ask you to explore the data. The goal of TidyTuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater #RStats community.
-
 * [Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/nav/getting-started/): This website hosts introductory material for teaching biologists how to interact with data including: data structure, database management systems, and programming for data manipulation, analysis, and visualization. Most of the modules use R.
 
 * [Statistical Methods for Functional Genomics](https://seandavi.github.io/ITR/): This site share materials for the CSHL Statistical Methods for Functional Genomics, which uses R and bioconductor.
@@ -94,3 +92,8 @@
 * [Software Development Processes and Methodologies](https://www.coursera.org/learn/software-processes): In this course, you will get an overview of how software teams work, processes they use, and industry standard methodologies such as traditional, lean, and agile development methodologies.
  
 * [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture): In the 4-course Coursera Software Design and Architecture Specialization, you will learn how to apply design principles, patterns, and architectures to create reusable and flexible software applications and systems. You will learn how to express and document the design and architecture of a software system using a visual notation
+
+
+## Datasets
+* [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday): Join the R4DS Online Learning Community in the weekly #TidyTuesday event! Every week they post a raw dataset, a chart or article related to that dataset, and ask you to explore the data. The goal of TidyTuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater #RStats community.
+
