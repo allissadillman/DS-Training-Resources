@@ -15,8 +15,6 @@
 * [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): Master Statistics with R in this Coursera specialization, which includes five courses covering topics like inference, modeling, and Bayesian approaches.
 
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
-
-* [Cloud Based Data Science](https://leanpub.com/universities/set/jhu/cloud-based-data-science): A free online educational to help anyone who can read, write, and use a computer to move into data science. It is a sequence of 11 Coursera courses offered by faculty members in the Johns Hopkins Department of Biostatistics, Bloomberg School of Public Health.
 	
 * [R Programming for Data Science](https://leanpub.com/rprogramming): This book brings the fundamentals of R programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. The skills taught in this book will lay the foundation for you to begin your journey learning data science.
 
@@ -73,8 +71,10 @@
 
 * [Open Science Data Cloud (ODSC)](https://www.opensciencedatacloud.org/): The OSDC is a data science ecosystem in which researchers can house and share their own scientific data, access complementary public datasets, build and share customized virtual machines with whatever tools necessary to analyze their data, and perform the analysis to answer their research questions.
  
-* [Jetstream](https://jetstream-cloud.org/about/index.php): A free national science & engineering cloud with a focus on ease of use and broad accessibility, Jetstream is designed for those who have not previously used high performance computing and software resources, includingsome useful preconfigured virtual machines (VMs).
- 
+* [Jetstream](https://jetstream-cloud.org/about/index.php): A free national science & engineering cloud with a focus on ease of use and broad accessibility, Jetstream is designed for those who have not previously used high performance computing and software resources, includingsome useful preconfigured virtual machines (VMs). 
+
+* [Cloud Based Data Science](https://leanpub.com/universities/set/jhu/cloud-based-data-science): A free online educational to help anyone who can read, write, and use a computer to move into data science. It is a sequence of 11 Coursera courses offered by faculty members in the Johns Hopkins Department of Biostatistics, Bloomberg School of Public Health.
+
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks): This page is a curated collection of Jupyter/IPython notebooks that include interesting visual or technical content on a wide variety of programming and scientific computing topics such as image processing, NLP, and machine learning
 
 ## General computer science resources
