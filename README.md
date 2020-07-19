@@ -6,8 +6,6 @@
 	
 * [R for Data Science](https://r4ds.had.co.nz/): This is an online book that will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. In this book, you will find a practicum of skills for data science.
 
-* [Statistical Methods for Functional Genomics](https://seandavi.github.io/ITR/): This site share materials for the CSHL Statistical Methods for Functional Genomics, which uses R and bioconductor.
-
 * [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): Master Statistics with R in this Coursera specialization, which includes five courses covering topics like inference, modeling, and Bayesian approaches.
 
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
@@ -50,8 +48,6 @@
 ## General bioinformatics resources
 
 * [Rosalind](http://rosalind.info/problems/locations/): Rosalind is a platform for learning bioinformatics and programming through problem solving
-
-* [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science): This 8-course Corsera specialization covers the concepts and tools to understand, analyze, and interpret data from next generation sequencing experiments. It teaches the most common tools used in genomic data science including how to use the command line, Python, R, Bioconductor, and Galaxy.
  
 * [Learn Galaxy](https://galaxyproject.org/learn/): Galaxy is a scientific workflow, data integration, and data and analysis persistence and publishing platform that aims to make computational biology accessible and freely available to research scientists that do not have computer programming experience.
  
@@ -60,6 +56,10 @@
 * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html): The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data. The book takes a hands-on approach. 
 
 * [Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/nav/getting-started/): This website hosts introductory material for teaching biologists how to interact with data including: data structure, database management systems, and programming for data manipulation, analysis, and visualization. Most of the modules use R.
+
+* [Statistical Methods for Functional Genomics](https://seandavi.github.io/ITR/): This site share materials for the CSHL Statistical Methods for Functional Genomics, which uses R and bioconductor.
+
+* [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science): This 8-course Corsera specialization covers the concepts and tools to understand, analyze, and interpret data from next generation sequencing experiments. It teaches the most common tools used in genomic data science including how to use the command line, Python, R, Bioconductor, and Galaxy.
 
 * [Bioinformatics for the Terrified](https://www.ebi.ac.uk/training/online/course/bioinformatics-terrified-0):  This course will give you a broad overview of how bioinformatics can enable bench-based research. It is aimed at experimental researchers in the molecular life sciences who have little or no previous experience of using bioinformatics databases or tools.
  
