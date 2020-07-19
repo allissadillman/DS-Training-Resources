@@ -35,6 +35,8 @@
  
 * [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai): This 4-module introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.
 
+* [Python for Biologists](https://www.pythonforbiologists.org/): A collection of episodes with videos, codes, and exercises for learning the basics of the Python programming language through genomics examples.
+
 * [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python): This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more.
 
 * [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization): This course will teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
