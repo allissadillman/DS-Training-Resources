@@ -61,6 +61,8 @@
  
 * [Cyverse Learning Center](https://learning.cyverse.org/en/latest/tutorials.html): CyVerse provides life scientists with free powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery. This platform provides data storage, bioinformatics tools, image analyses, cloud services, APIs, and more.
  
+* [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html): The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data. The book takes a hands-on approach. 
+
 * [Bioinformatics for the Terrified](https://www.ebi.ac.uk/training/online/course/bioinformatics-terrified-0):  This course will give you a broad overview of how bioinformatics can enable bench-based research. It is aimed at experimental researchers in the molecular life sciences who have little or no previous experience of using bioinformatics databases or tools.
  
 * [Quantitative Trait Mapping](https://smcclatchy.github.io/mapping/): This lesson introduces genetic mapping using qtl2, a R package for analyzing quantitative phenotypes and genetic data from complex crosses like the Diversity Outbred (DO). Genetic mapping with qtl2 allows researchers in fields as diverse as medicine, evolution, and agriculture to identify specific chromosomal regions that contribute to variation in phenotypes (quantitative trait loci or QTL).
