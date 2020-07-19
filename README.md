@@ -6,8 +6,6 @@
 	
 * [R for Data Science](https://r4ds.had.co.nz/): This is an online book that will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. In this book, you will find a practicum of skills for data science.
 
-* [Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/nav/getting-started/): This website hosts introductory material for teaching biologists how to interact with data including: data structure, database management systems, and programming for data manipulation, analysis, and visualization. Most of the modules use R.
-
 * [Statistical Methods for Functional Genomics](https://seandavi.github.io/ITR/): This site share materials for the CSHL Statistical Methods for Functional Genomics, which uses R and bioconductor.
 
 * [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): Master Statistics with R in this Coursera specialization, which includes five courses covering topics like inference, modeling, and Bayesian approaches.
@@ -60,6 +58,8 @@
 * [Cyverse Learning Center](https://learning.cyverse.org/en/latest/tutorials.html): CyVerse provides life scientists with free powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery. This platform provides data storage, bioinformatics tools, image analyses, cloud services, APIs, and more.
  
 * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html): The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data. The book takes a hands-on approach. 
+
+* [Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/nav/getting-started/): This website hosts introductory material for teaching biologists how to interact with data including: data structure, database management systems, and programming for data manipulation, analysis, and visualization. Most of the modules use R.
 
 * [Bioinformatics for the Terrified](https://www.ebi.ac.uk/training/online/course/bioinformatics-terrified-0):  This course will give you a broad overview of how bioinformatics can enable bench-based research. It is aimed at experimental researchers in the molecular life sciences who have little or no previous experience of using bioinformatics databases or tools.
  
