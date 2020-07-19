@@ -10,6 +10,8 @@
 	
 * [R Programming for Data Science](https://leanpub.com/rprogramming): This book brings the fundamentals of R programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. The skills taught in this book will lay the foundation for you to begin your journey learning data science.
 
+[Teacups, Giraffes, & Statstics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html): A delightful series of modules to learn statistics and R coding for students, scientists, and stats-enthusiasts.
+
 * [swirl](https://swirlstats.com/): swirl teaches you R programming and data science interactively, at your own pace, and right in the R console.
 
 * [Exercism](https://exercism.io/tracks/r/): offers programming puzzles to solve against a provided set of test cases. Mimicking the workflow of test-driven development (TDD), Exercism emphasizes iteration and refactoring. After solving a puzzle, solutions can be discussed with a mentor and peers' solutions can be reviewed.
