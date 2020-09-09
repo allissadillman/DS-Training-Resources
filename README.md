@@ -1,6 +1,6 @@
 # Data Science Training Resources
 
-## R resources
+## R 
 
 * [RStudio Primers](https://rstudio.cloud/learn/primers): Learn data science basics using these R cloud interactive tutorials.  Topics include everything from data tidying to building interactive apps.
 	
@@ -22,7 +22,7 @@
 
 * [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): Master Statistics with R in this Coursera specialization, which includes five courses covering topics like inference, modeling, and Bayesian approaches.
 
-## Python resources
+## Python 
  
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/): A fast-paced introduction to essential features of the Python language, aimed at researchers and developers who are already familiar with programming in another language. The material is particularly designed for those who wish to use Python for data science and/or scientific programming
  
@@ -42,7 +42,7 @@
  
 * [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python): This course dives into the basics of machine learning using Python. You will learn about the purpose of Machine Learning and where it applies to the real world.  You will also get a general overview of machine learning topics such as supervised vs unsupervised learning, model evaluation, and Machine Learning algorithms.
 
-## General bioinformatics resources
+## General Bioinformatics
 
 * [Rosalind](http://rosalind.info/problems/locations/): Rosalind is a platform for learning bioinformatics and programming through problem solving
  
@@ -64,7 +64,7 @@
  
 * [Quantitative Trait Mapping](https://smcclatchy.github.io/mapping/): This lesson introduces genetic mapping using qtl2, a R package for analyzing quantitative phenotypes and genetic data from complex crosses like the Diversity Outbred (DO). Genetic mapping with qtl2 allows researchers in fields as diverse as medicine, evolution, and agriculture to identify specific chromosomal regions that contribute to variation in phenotypes (quantitative trait loci or QTL).
 
-## General Compute resources
+## General Compute 
 
 * [Open Science Data Cloud (ODSC)](https://www.opensciencedatacloud.org/): The OSDC is a data science ecosystem in which researchers can house and share their own scientific data, access complementary public datasets, build and share customized virtual machines with whatever tools necessary to analyze their data, and perform the analysis to answer their research questions.
  
@@ -74,7 +74,7 @@
 
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks): This page is a curated collection of Jupyter/IPython notebooks that include interesting visual or technical content on a wide variety of programming and scientific computing topics such as image processing, NLP, and machine learning
 
-## General computer science resources
+## General Computer Science 
 
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/): This tutorial will help you install Git and get it working smoothly with GitHub, in the shell and in RStudio, develop a few key workflows that cover your most common tasks, and integrate Git and GitHub into your daily work with R and RMarkdown.
 
