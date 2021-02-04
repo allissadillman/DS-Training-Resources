@@ -78,6 +78,8 @@
 
 ## General Computer Science 
 
+* [Katacoda](https://www.katacoda.com/): Interactive Learning and Training Platform for Software Engineers. Learn the technologies such as Kubernetes, Machine Learning and cloud platforms using self-paced labs.
+
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/): This tutorial will help you install Git and get it working smoothly with GitHub, in the shell and in RStudio, develop a few key workflows that cover your most common tasks, and integrate Git and GitHub into your daily work with R and RMarkdown.
 
 * [Learn Git Branching](https://learngitbranching.js.org/): visual and interactive way to learn Git; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
