@@ -102,4 +102,6 @@
 ## Datasets
 * [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday): Join the R4DS Online Learning Community in the weekly #TidyTuesday event! Every week they post a raw dataset, a chart or article related to that dataset, and ask you to explore the data. The goal of TidyTuesday is to apply your R skills, get feedback, explore other’s work, and connect with the greater #RStats community.
 
+* [Kaggle Datasets](https://www.kaggle.com/datasets): Explore, analyze, and share quality data. Learn more about data types, creating, and collaborating.
+
 * [A list of public datasets](https://github.com/awesomedata/awesome-public-datasets): This list of a topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses. Most of the data sets listed are free, however, some are not.
