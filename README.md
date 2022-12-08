@@ -7,6 +7,12 @@
 * [R for Data Science](https://r4ds.had.co.nz/): This is an online book that will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. In this book, you will find a practicum of skills for data science.
 
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
+
+* [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics): Master Data Analysis with R. Statistical mastery of data analysis including basic data visualization, statistical testing and inference, and linear modeling
+
+* [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
+
+* [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
 	
 * [R Programming for Data Science](https://leanpub.com/rprogramming): This book brings the fundamentals of R programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. The skills taught in this book will lay the foundation for you to begin your journey learning data science.
 
@@ -35,6 +41,8 @@
 * [Practice Python](http://www.practicepython.org/): This site provides over 30 beginner Python exercises just waiting to be solved. Each exercise comes with a small discussion of a topic and a link to a solution. New exercise are posted monthly.
 
 * [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai): This 4-module introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.
+
+* [Python for Everybody Specialization](https://www.coursera.org/specializations/python): Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.
 
 * [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python): This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more.
 
