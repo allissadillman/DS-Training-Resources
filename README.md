@@ -115,3 +115,5 @@
 * [Data is plural](https://www.data-is-plural.com/): A weekly newsletter of useful/curious datasets
 
 * [A list of public datasets](https://github.com/awesomedata/awesome-public-datasets): This list of a topic-centric public data sources in high quality. They are collected and tidied from blogs, answers, and user responses. Most of the data sets listed are free, however, some are not.
+
+![test](../NIH-Data-Science-Bootcamp-2020/images/logo.png)
