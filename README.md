@@ -11,8 +11,6 @@
 * [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics): Master Data Analysis with R. Statistical mastery of data analysis including basic data visualization, statistical testing and inference, and linear modeling
 
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
-
-* [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
 	
 * [R Programming for Data Science](https://leanpub.com/rprogramming): This book brings the fundamentals of R programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. The skills taught in this book will lay the foundation for you to begin your journey learning data science.
 
