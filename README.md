@@ -6,8 +6,6 @@
 	
 * [R for Data Science](https://r4ds.had.co.nz/): This is an online book that will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. In this book, you will find a practicum of skills for data science.
 
-* [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
-
 * [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics): Master Data Analysis with R. Statistical mastery of data analysis including basic data visualization, statistical testing and inference, and linear modeling
 
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): This 10-course data science specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results using R.
