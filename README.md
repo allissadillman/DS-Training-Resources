@@ -54,7 +54,7 @@
  
 * [Learn Galaxy](https://galaxyproject.org/learn/): Galaxy is a scientific workflow, data integration, and data and analysis persistence and publishing platform that aims to make computational biology accessible and freely available to research scientists that do not have computer programming experience.
  
-* [Cyverse Learning Center](https://learning.cyverse.org/en/latest/tutorials.html): CyVerse provides life scientists with free powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery. This platform provides data storage, bioinformatics tools, image analyses, cloud services, APIs, and more.
+* [Cyverse Learning Center](https://learning.cyverse.org/): CyVerse provides life scientists with free powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery. This platform provides data storage, bioinformatics tools, image analyses, cloud services, APIs, and more.
  
 * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/index.html): The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data. The book takes a hands-on approach. 
 
