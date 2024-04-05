@@ -2,7 +2,7 @@
 
 ## R 
 
-* [RStudio Recipes]([https://rstudio.cloud/learn/primers](https://posit.cloud/learn/recipes)): Learn data science basics using these R code snippets. Topics include everything from data tidying to building interactive apps.  Note: You need to be logged into Posit Cloud to use these tutorials.
+* [RStudio Recipes](https://rstudio.cloud/learn/primers](https://posit.cloud/learn/recipes): Learn data science basics using these R code snippets. Topics include everything from data tidying to building interactive apps.  Note: You need to be logged into Posit Cloud to use these tutorials.
 
 	
 * [R for Data Science](https://r4ds.hadley.nz/): This is an online book that teaches you how to do data science with R. You’ll learn how to get your data into R, structure it into the most useful structure, transform it, visualize it, and model it. This book provides a practicum of skills for data science.
